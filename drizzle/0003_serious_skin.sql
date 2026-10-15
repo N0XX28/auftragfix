@@ -1,0 +1,1 @@
+ALTER TABLE `workshop_customers` ADD `address` text;
